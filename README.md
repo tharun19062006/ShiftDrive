@@ -1,42 +1,31 @@
 # ShiftDrive
-Futuristic AI-powered racing simulator built with Unity for the TrackShift Innovation Challenge 2025.
-💡 About the Project
 
-ShiftDrive was inspired by the idea of adaptive racing intelligence — how AI could change the way players interact with futuristic vehicles.
-Built upon the open-source foundation of Street Racing - Unity, this version adds new visual design, car models, and AI-based race logic.
+*Futuristic AI-powered racing simulator built with Unity for the TrackShift Innovation Challenge 2025.*
 
-What’s new in ShiftDrive:
+## 🚨 The Problem
+Traditional racing games often rely on static, predictable AI. We wanted to explore how adaptive, lap-time-aware AI could create a more dynamic and futuristic player experience.
 
-⚡ Enhanced futuristic UI and lighting design
+## 💡 The Solution
+ShiftDrive is an AI-enhanced 3D simulator that integrates adaptive racing logic with a high-fidelity aesthetic, allowing for real-time adjustments to AI difficulty based on player performance.
 
-🧠 Smarter lap-time adaptive AI
+## 🛠️ Tech Stack
+- **Engine:** [Unity 2022.3+](https://unity.com/)
+- **Logic:** C# Scripting
+- **Design:** Blender (AI-assisted asset generation)
+- **AI Tools:** Gemini, Leonardo.ai, Midjourney (for UI & environment textures)
 
-🌃 Dynamic neon environments
+## ✨ Key Features
+- **Adaptive AI:** Lap-time-aware logic that scales with player skill.
+- **Visual Aesthetic:** Dynamic neon lighting and synthwave-inspired environment.
+- **Asset Integration:** AI-generated high-performance hypercar models.
 
-🚗 AI-generated car models (F1 & hypercars)
+## 🚀 How to Run
+1. Clone the repository: `git clone https://github.com/tharun19062006/ShiftDrive.git`
+2. Open the project folder in **Unity Hub (Version 2022.3+)**.
+3. Open the `Assets/Scenes` folder and load the primary race scene.
+4. Press **Play** in the Unity Editor.
 
-🎵 Synthwave-inspired background soundtrack
-
-🧱 Built With
-
-Unity 2022.3+
-
-C# Scripting
-
-VS Code (for logic and customization)
-
-Blender (for AI-generated 3D assets)
-
-AI Tools: Gemini / Leonardo / Midjourney (for visuals)
-
-Open Source Base: Street Racing – Unity (MIT License)
-
-🏆 Accomplishments
-
-Recreated a modern 3D racing game using open-source Unity assets
-
-Designed a full futuristic visual theme in <5 hours
-
-Integrated AI-generated UI, cars, and environment
-
-Adapted for TrackShift hackathon submission
+## 🏆 Accomplishments
+- Successfully integrated AI-generated assets into a functional 3D Unity pipeline.
+- Designed a complete visual theme and game logic within a <5 hour hackathon window.
+- Selected as a submission for the TrackShift Innovation Challenge 2025.
